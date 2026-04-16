@@ -12,7 +12,7 @@
 ### 🛡️ Computer Vision & Decision Intelligence for Global Security
 I specialize in the intersection of **Deep Learning** and **Customs Intelligence**. My research at the **University of York** focuses on automating the detection of suspicious consignments to enhance border security and trade efficiency.
 
-#### 🎯 Visual Hook: AI-Powered Consignment Inspection
+####  AI-Powered Consignment Inspection
 ![Object Detection Demo](https://github.com/muekarasmartthankgod-sys/muekarasmartthankgod-sys/blob/main/detection_demo.gif?raw=true)
 *Real-time detection using YOLOv12 and RT-DETRv2 on domain-specific X-ray datasets.*
 
