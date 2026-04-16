@@ -34,5 +34,5 @@ I specialize in the intersection of **Deep Learning** and **Customs Intelligence
 
 ### 🤝 Let's Connect
 - 🔭 **Targeting:** IEEE Publication for my latest research findings.
-- 🌱 **Building:** Scalable AI solutions for trade compliance via [Trade Audit AI](https://trade-audit-ai-kqefxmftigyq4lectascj2.streamlit.app/).
+- 🌱 **Building:** Scalable AI solutions for trade compliance via [Trade Audit AI](https://trade-audit-ai-kqefxmftigyq4lectascj2.streamlit.app/).(ACCESS CODE is on request)
 - 💬 **Ask me about:** Border security technology, Computer Vision, or the future of automated customs.
